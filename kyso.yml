@@ -1,0 +1,6 @@
+main: "template.ipynb"
+	preview: ""
+	title: "The Kyso template example"
+	description: "A template idea"
+	tags:
+	  - template
